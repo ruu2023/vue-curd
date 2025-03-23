@@ -5,6 +5,7 @@ import Login from './components/Login.vue'
 <template>
   <div class="app">
     <Login />
+    <Login />
   </div>
 </template>
 
